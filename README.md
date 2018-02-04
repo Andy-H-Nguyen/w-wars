@@ -1,7 +1,7 @@
-[![](https://simondiep.github.io/img/node-multiplayer-snake.gif)](https://node-multiplayer-snake.herokuapp.com/)
-![Alt](https://simondiep.github.io/img/snake.gif)
-[![Build Status](https://travis-ci.org/simondiep/node-multiplayer-snake.svg?branch=master)](https://travis-ci.org/simondiep/node-multiplayer-snake)
-[![Dependency Status](https://david-dm.org/simondiep/node-multiplayer-snake/status.svg?style=flat)](https://david-dm.org/simondiep/node-multiplayer-snake)  
+[![](https://andynguyen.github.io/img/node-multiplayer-snake.gif)](https://node-multiplayer-snake.herokuapp.com/)
+![Alt](https://andynguyen.github.io/img/snake.gif)
+[![Build Status](https://travis-ci.org/andynguyen/node-multiplayer-snake.svg?branch=master)](https://travis-ci.org/andynguyen/node-multiplayer-snake)
+[![Dependency Status](https://david-dm.org/andynguyen/node-multiplayer-snake/status.svg?style=flat)](https://david-dm.org/andynguyen/node-multiplayer-snake)  
 
 A multiplayer snake game built on NodeJs, Express, socket.io, JavaScript ES6, and jspm.  No unnecessary libraries.  
 Live demo [Here](https://node-multiplayer-snake.herokuapp.com/)
@@ -10,7 +10,7 @@ Live demo [Here](https://node-multiplayer-snake.herokuapp.com/)
 
 Install the latest [Node.js](http://nodejs.org) 6 Stable
 
-`git clone https://github.com/simondiep/node-multiplayer-snake.git`
+`git clone https://github.com/andynguyen/node-multiplayer-snake.git`
 
 `cd node-multiplayer-snake`
 
@@ -91,7 +91,7 @@ Open your web browser to `localhost:3000`
  - clean up class constructors that take a lot of params, and instead pass in a single object
  - add game instructions possibly to a dismissible dialog
  - add a legend for different power ups
- - [Issues](https://github.com/simondiep/node-multiplayer-snake/issues)
+ - [Issues](https://github.com/andynguyen/node-multiplayer-snake/issues)
 
 ### Longer-term Tech Debt
  - Redo front-end with React
