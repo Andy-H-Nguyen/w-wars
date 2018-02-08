@@ -1,18 +1,18 @@
-[![](https://andynguyen.github.io/img/node-multiplayer-snake.gif)](https://node-multiplayer-snake.herokuapp.com/)
-![Alt](https://andynguyen.github.io/img/snake.gif)
-[![Build Status](https://travis-ci.org/andynguyen/node-multiplayer-snake.svg?branch=master)](https://travis-ci.org/andynguyen/node-multiplayer-snake)
-[![Dependency Status](https://david-dm.org/andynguyen/node-multiplayer-snake/status.svg?style=flat)](https://david-dm.org/andynguyen/node-multiplayer-snake)  
+[![](https://kodokon.github.io/img/w-wars.gif)](https://node-multiplayer-snake.herokuapp.com/)
+![Alt](https://kodokon.github.io/img/snake.gif)
+[![Build Status](https://travis-ci.org/kodokon/w-wars.svg?branch=master)](https://travis-ci.org/kodokon/w-wars)
+[![Dependency Status](https://david-dm.org/kodokon/w-wars/status.svg?style=flat)](https://david-dm.org/kodokon/w-wars)  
 
 A multiplayer snake game built on NodeJs, Express, socket.io, JavaScript ES6, and jspm.  No unnecessary libraries.  
-Live demo [Here](https://node-multiplayer-snake.herokuapp.com/)
+Live demo [Here](https://w-wars.herokuapp.com/)
 
 ### Getting Started
 
 Install the latest [Node.js](http://nodejs.org) 6 Stable
 
-`git clone https://github.com/andynguyen/node-multiplayer-snake.git`
+`git clone https://github.com/kodokon/w-wars.git`
 
-`cd node-multiplayer-snake`
+`cd w-wars`
 
 `npm install`
 
@@ -91,7 +91,7 @@ Open your web browser to `localhost:3000`
  - clean up class constructors that take a lot of params, and instead pass in a single object
  - add game instructions possibly to a dismissible dialog
  - add a legend for different power ups
- - [Issues](https://github.com/andynguyen/node-multiplayer-snake/issues)
+ - [Issues](https://github.com/kodokon/w-wars/issues)
 
 ### Longer-term Tech Debt
  - Redo front-end with React
