@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/kodokon/w-wars.svg?branch=master)](https://travis-ci.org/kodokon/w-wars)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 A multiplayer snake game built on NodeJs, Express, socket.io, JavaScript ES6, and jspm.  No unnecessary libraries.  
 Live demo [Here](https://w-wars.herokuapp.com/)
